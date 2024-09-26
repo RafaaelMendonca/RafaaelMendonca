@@ -25,8 +25,8 @@ Sou apaixonado por **Análise de Dados**, **Back-end** e **Machine Learning**.
 
 ### ✨ Um pouco sobre mim:
 
-Atualmente, estou estagiando como **Analista de Dados**, onde utilizo práticas de **ETL** (Extração, Transformação e Carga) para otimizar e gerenciar dados. Estou explorando como implementar **Machine Learning** para auxiliar na etapa de transformação de dados, buscando formas de automatizar e melhorar a eficiência desse processo.
+Atuo na área de **análise de dados** e estou cursando **Análise e Desenvolvimento de Sistemas**. Tenho paixão por trabalhar com dados e suas aplicações práticas.
 
-Além disso, estou em constante aprendizado de **Django** e **Kotlin**, e aprofundando meus conhecimentos em **Machine Learning**. Tenho experiência em projetos com **metodologia ágil**, o que tem me ajudado a gerenciar e entregar soluções de forma eficiente e colaborativa.
+Atualmente, sou estagiário na área de análise de dados, onde descobri minha paixão pela área. Desde então, decidi me aprofundar como analista e cientista de dados, com o objetivo de me tornar uma referência e ser lembrado pela excelência no campo. Além disso, tenho grande interesse por desenvolvimento back-end, especialmente com **Django no desenvolvimento web**.
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos na área de análise de dados e desenvolvimento.
+Minhas competências incluem **extração** e **transformação de dados**, **Machine Learning**, **análise preditiva**, **Python (Pandas)**, **SQL** e **engenharia de dados**.
